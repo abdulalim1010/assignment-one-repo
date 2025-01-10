@@ -1,0 +1,116 @@
+.hero{
+  display: flex;
+  justify-content: center;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
+.ground{
+  background-color:#C6E4D6 ;
+  margin: 100px;
+  height: 600px;
+  border-radius: 20px;
+}
+photo{
+  margin-left: 64px;
+  border-radius: 20px;
+}
+.box{
+  margin-top: 200px;
+}
+.header3{
+  font-size: 56px;
+  color: #0E0E0E;
+  
+}
+.smal{
+  color:#0E0E0E ;
+  font-weight: 18;
+  font-size: medium;
+}
+.btn{
+  border-radius: 10px;
+  color:#FFFFFF;
+  
+  padding: 10px;
+  background-color: #006A50;
+  font-size: semi-bold;
+}
+.fourr{
+  display: flex;
+  height: 200px;
+  width: auto;
+  padding-left: 100px;
+  padding-right: 100px;
+  border-radius: 10px;
+  margin-bottom: 100px;
+  
+
+ 
+justify-content:center
+  
+}
+
+
+.one{background-color:#FFFFFF;
+ border-radius: 10px;
+ 
+}
+.two{
+background-color:#FFFFFF;
+border-radius: 10px;
+}
+.three{
+background-color:#FFFFFF;
+border-radius: 10px;
+}
+.four{
+  background-color:#FFFFFF;
+  border-radius: 10px;
+}
+.threee{
+  margin-left: 100px;
+  font-size: x-large;
+  margin-bottom: 20px;
+
+}
+.body{
+  background-color: azure;
+}
+.five{
+  display: flex;
+  justify-content: space-around;
+
+  
+  
+
+}
+.t-one{background-color: #5490F5;
+  border-radius: 10px;
+  margin-left: 100px;
+  margin-right: 20px;
+}
+.t-two{
+background-color: hsl(152, 36%, 84%);
+border-radius: 10px; 
+margin-right: 100px;
+margin-left: 20px;
+}
+
+.t-three{
+background-color: #f3cd75;
+border-radius: 10px; 
+background-size: 0%;
+width: auto;
+}
+.haan{margin-left: 100px;
+  margin-bottom: 20px;
+  
+
+}
+.pad{
+  margin-left: 100px;
+margin-bottom: 20px;
+}
