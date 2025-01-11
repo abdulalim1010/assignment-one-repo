@@ -15,7 +15,8 @@
 }
 .photo{
   margin-left: 64px;
-  border-radius: 20px;position: relative
+  margin-top: 80px;
+  margin-left: 100px;
 }
 .box{
   margin-top: 200px;
@@ -79,31 +80,54 @@ border-radius: 10px;
   background-color: azure;
 }
 .five{
-  display: flex;
-  justify-content: space-around;
-  gap: 50px;
-
-  
-  
-
-}
-.t-one{background-color: #5490F5;
-  border-radius: 10px;
   margin-left: 100px;
   
+  justify-content: space-around;
+  display: flex;
+  gap: 20px;
+  
+
+  
+  
+
 }
+.t-one{background-color: #9db9ea;
+  border-radius: 10px;
+ 
+}
+.button1{
+  background-color: #5490F5;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
 .t-two{
 background-color: hsl(152, 36%, 84%);
 border-radius: 10px; 
 
 
 }
+.button2{
+  background-color:#09A15C ;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
 
 .t-three{
-background-color: #f3cd75;
+background-color: #bca87b;
 border-radius: 10px; 
-
-
+}
+.button3{
+  background-color: #FFC239;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-bottom: 10px;
 }
 .haan{margin-left: 100px;
   margin-bottom: 20px;
@@ -290,6 +314,7 @@ border-radius: 10px;
   display: flex;
   justify-content: center;
   gap: 5px;
+  padding: 20px;
   
 }
 .all{
@@ -297,4 +322,8 @@ border-radius: 10px;
 }
 .july{
   padding: 30px;
+  
+}
+.small{
+  margin: 10px;
 }
