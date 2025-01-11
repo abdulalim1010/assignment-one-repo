@@ -253,11 +253,17 @@ display: contents;
   border-radius: 10px;
   margin-left: 100px;
   margin-right: 100px;margin-bottom: 20px;
+  padding: 20px;
 }
 .suub{
   margin-top: 30px;
   padding: 20px.;
-} .biiit{  padding: 15px;       background-color: #006A50; border-radius:0px 5px;}       .biit{padding: 15px; border-radius: 5px; width: 300px;}                 
+} .biiit{  padding: 15px;      
+   background-color: #006A50; border-radius:0px 5px;
+  margin-bottom: 5px;
+  }      
+    .biit{padding: 15px; border-radius: 5px; width: 300px; margin-bottom: 5px;
+    }                 
 .main{
   
 display: flex;
