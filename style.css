@@ -13,9 +13,9 @@
   height: 600px;
   border-radius: 20px;
 }
-photo{
+.photo{
   margin-left: 64px;
-  border-radius: 20px;
+  border-radius: 20px;position: relative
 }
 .box{
   margin-top: 200px;
@@ -206,9 +206,95 @@ display: contents;
   background-color: #C6E4D6;
   border-radius: 10px;
   margin-left: 100px;
-  margin-right: 100px;
+  margin-right: 100px;margin-bottom: 20px;
 }
 .suub{
   margin-top: 30px;
-  padding: 20px;
+  padding: 20px.;
+} .biiit{  padding: 15px;       background-color: #006A50; border-radius:0px 5px;}       .biit{padding: 15px; border-radius: 5px; width: 300px;}                 
+.main{
+  
+display: flex;
+  padding: 35px;
+  justify-content: center;
+  gap: 10px;
+   /* margin-left: 300px;
+  margin-right: 200px; */
+} 
+.child1{
+  background-color:#FFFFFF;
+  border-radius: 5px;
+  border: 2px solid whitesmoke;
+  padding: 15px;
+  font-size: 35px;
+  margin: 10px 0;
+
+}
+.child2{
+  background-color:#C6E4D6;
+  border-radius: 5px;
+  border: 2px solid whitesmoke;
+  padding: 15px;
+  font-size: 28px;
+  margin: 10px 0;
+}
+.child3{
+  background-color:#FFFFFF;
+  border-radius: 5px;
+  border: 2px solid whitesmoke;
+  padding: 15px;
+  font-size: 28px;
+  margin: 10px 0;
+}
+.child4{
+  background-color:#FFFFFF;
+  border-radius: 5px;
+  border: 2px solid whitesmoke;
+  padding: 15px;
+  font-size: 28px;
+  margin: 10px 0;
+}
+.donet{text-align: center;
+  padding: 35px 220px;
+  
+  border-radius: 10px;
+  border: 1px solid whitesmoke;
+
+}
+.other{
+  padding: 30px;
+  background-color: #FFFFFF;
+}
+.sum{
+  text-align: center;
+}
+.done{
+  margin: 25px 30px;
+padding: 35px 90px;
+background-color: #006A50;
+border-radius: 10px;
+}
+.donation{text-align:center;
+
+}
+.today{
+  font-size: x-large;
+  padding: 10px;
+  margin-top: 20px;
+}
+.fire{
+  margin-left: 200px;
+  margin-right: 200px;
+}
+.time{
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+  
+}
+.all{
+  text-align: center;
+}
+.july{
+  padding: 30px;
 }
