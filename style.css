@@ -2,6 +2,28 @@
   display: flex;
   justify-content: center;
 }
+.init{
+  display: flex;
+  justify-content: space-between;
+}
+.first{
+  margin-top: 50px;
+  margin-left: 120px;
+  font-size: x-large;
+}
+.next{
+  margin-top: 50px;
+  margin-right: 120px;
+  
+  
+}
+.hard{
+  color: #09A15C;
+  padding: 10px 40px;
+  border-radius: 5px;
+  border: 1px solid #09A15C;
+  background-color: aliceblue;
+}
 
 *{
   margin: 0;
