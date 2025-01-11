@@ -41,7 +41,7 @@
   margin-left: 100px;
 }
 .box{
-  margin-top: 200px;
+  margin-top: 160px;
 }
 .header3{
   font-size: 56px;
@@ -197,7 +197,7 @@ display: contents;
   margin-left: 100px
 }
 .imaag{
-  border-radius: 10px
+  border-radius: 20px
 }
 .jajira{
   display: flex;
